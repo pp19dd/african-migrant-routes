@@ -16,7 +16,7 @@
    inkscape:version="0.48.0 r9654"
    width="100%"
    height="100%"
-   sodipodi:docname="bla.svg">
+   sodipodi:docname="draft.svg">
   <metadata
      id="metadata4866">
     <rdf:RDF>
@@ -37,16 +37,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1658"
-     inkscape:window-height="931"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      id="namedview4864"
      showgrid="false"
-     inkscape:zoom="1.6935644"
-     inkscape:cx="1290.3779"
-     inkscape:cy="358.61424"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:zoom="1.0968476"
+     inkscape:cx="802.77635"
+     inkscape:cy="660.27903"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg4845" />
   <defs
      id="defs3354">
@@ -63,6 +63,34 @@
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
          transform="scale(0.4)" />
     </marker>
+    <marker
+       stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4330-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4330-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
   </defs>
   <image
      y="0"
@@ -71,6 +99,142 @@
      xlink:href="file:///C:/Users/ebeslagic/Desktop/xampp/htdocs/african-migrant-routes/lower-02.jpg"
      height="1076"
      width="1587" />
+  <g
+     id="g4433"
+     style="opacity:0.3">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4881"
+       d="m 384.98684,852.80211 c 0,0 -4.72377,-59.04706 210.20753,-209.02659"
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4883"
+       d="m 547.95672,869.33529 c 0,0 -88.57059,-75.58024 43.69483,-219.65507"
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4885"
+       d="m 408.60566,655.58493 c 0,0 1.18094,38.97106 186.58871,-8.26659"
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4897"
+       d="m 66.723179,735.88893 c 0,0 83.846831,21.25694 160.608011,10.62847"
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="csssc"
+       inkscape:connector-curvature="0"
+       id="path4901"
+       d="m 1401.7772,989.79129 c 0,0 -179.5634,69.26331 -239.731,5.90471 -29.8216,-31.40321 -31.3955,-74.3518 -25.3825,-126.75081 5.6169,-48.9476 23.9067,-96.42389 30.7329,-131.98172 5.3981,-28.11889 3.6275,-48.78453 -17.248,-56.83056"
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path4903"
+       d="m 1462.0052,941.3727 c 0,0 -120.9416,40.86532 -220.836,-55.50424 -71.4894,-68.96682 -32.5376,-187.31525 -88.9164,-206.52144"
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3035"
+       d="m 1307.8924,686.2894 c 0,0 -50.19,11.80941 -157.0652,-8.26659"
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="cc"
+       nodetypes="csssc"
+       connector-curvature="0"
+       id="path3411-4"
+       d="m 68.36501,689.96169 c 0,0 22.605732,41.66858 159.55419,56.69958"
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       nodetypes="csc"
+       connector-curvature="0"
+       id="path4625-6"
+       d="m 1293.2359,829.19818 c 0,0 -57.2355,-131.24442 -145.2557,-154.70331"
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none" />
+  </g>
+  <g
+     id="g4427">
+    <g
+       id="g4494">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.5;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 713.54268,259.3666 -27.09862,81.1987 13.61299,-2.39814 c 1.76584,16.47464 4.89722,38.08267 5.50545,57.27034 1.09932,34.67921 6.09553,59.54362 -2.40625,106.03125 -7.94772,43.45804 -26.5241,98.06415 -111.65625,135.71875 -87.02861,38.49342 -144.59854,66.99758 -196.5625,83.78125 -51.96396,16.78367 -98.38726,22.24408 -165.8125,14.84375 l -2.1875,19.875 c 69.52321,7.6306 119.99546,1.79562 174.125,-15.6875 54.12954,-17.48312 111.86914,-46.19993 198.53125,-84.53125 88.55857,-39.17014 133.35484,-68.36161 153.1875,-130.9375 15.09252,-47.61983 18.66492,-49.86786 18.8125,-121.4375 0.0454,-22.03216 -4.59923,-52.78478 -8.4375,-74.40625 l 16.31397,-2.71131 C 756.37779,302.4435 739.46427,286.04318 713.54268,259.3666 z"
+         id="path4429"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccssssccssssccc" />
+    </g>
+    <g
+       id="g4502">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.5;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 873.6508,314.79467 -26.82846,85.62777 19.03125,-3.17592 c 18.34442,96.92732 44.8132,152.09953 81.80266,194.59723 39.65651,45.56191 99.56745,68.14326 198.81255,94.59375 l 5.1562,-19.34375 c -98.4174,-26.22994 -138.3093,-53.84546 -173.53125,-94.3125 -32.49334,-37.33204 -45.67506,-89.97242 -64.625,-183.8125 l 17.21352,-3.51793 z"
+         id="path4431"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccsccsccc" />
+    </g>
+  </g>
+  <g
+     class="places"
+     stroke="black"
+     fill="none"
+     stroke-width="2"
+     id="g4854"
+     style="fill:#ff9955">
+    <circle
+       cx="711"
+       cy="242"
+       r="10"
+       id="tripoli"
+       style="fill:#ff9955" />
+    <circle
+       cx="744"
+       cy="398"
+       r="10"
+       id="sabha"
+       style="fill:#ff9955" />
+    <circle
+       cx="870"
+       cy="300"
+       r="10"
+       id="ajdabiya"
+       style="fill:#ff9955" />
+    <circle
+       cx="228"
+       cy="746"
+       r="10"
+       id="bamako"
+       style="fill:#ff9955" />
+    <circle
+       cx="1151"
+       cy="677"
+       r="10"
+       id="khartoum"
+       style="fill:#ff9955" />
+    <circle
+       cx="1293"
+       cy="830"
+       r="10"
+       id="addis_abeba"
+       style="fill:#ff9955" />
+    <circle
+       cx="410"
+       cy="657"
+       r="10"
+       id="gao"
+       style="fill:#ff9955" />
+    <circle
+       cx="595"
+       cy="647"
+       r="10"
+       id="agadez"
+       style="fill:#ff9955" />
+  </g>
   <image
      x="0"
      y="0"
@@ -78,104 +242,37 @@
      height="1076"
      href="lower-02.jpg"
      id="image4850" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:14;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
-     d="m 68.474226,691.42268 c 0,0 22.605737,39.30677 159.554194,54.3377 C 364.97687,760.79131 421.8443,723.15464 595.53502,646.3299 769.22574,569.50516 744.83939,463.58139 742.70671,396.3036 741.59006,361.07737 726.04889,294.71385 726.04889,294.71385"
-     id="path3411"
-     connector-curvature="0"
-     nodetypes="csssc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:14;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
-     d="m 1294.3116,831.468 c 0,0 -57.2355,-131.24442 -145.2557,-154.70331 C 951.39348,624.08426 917.59132,569.29905 880.98214,349.64398"
-     id="path4625"
-     connector-curvature="0"
-     nodetypes="csc"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="csc" />
-  <g
-     class="places"
-     stroke="black"
-     fill="none"
-     stroke-width="2"
-     id="g4854">
-    <circle
-       cx="711"
-       cy="242"
-       r="10"
-       id="tripoli" />
-    <circle
-       cx="744"
-       cy="398"
-       r="10"
-       id="sabha" />
-    <circle
-       cx="870"
-       cy="300"
-       r="10"
-       id="ajdabiya" />
-    <circle
-       cx="228"
-       cy="746"
-       r="10"
-       id="bamako" />
-    <circle
-       cx="1151"
-       cy="677"
-       r="10"
-       id="khartoum" />
-    <circle
-       cx="1293"
-       cy="830"
-       r="10"
-       id="addis_abeba" />
-    <circle
-       cx="410"
-       cy="657"
-       r="10"
-       id="gao" />
-    <circle
-       cx="595"
-       cy="647"
-       r="10"
-       id="agadez" />
-  </g>
-  <path
-     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 384.98684,852.80211 c 0,0 -4.72377,-59.04706 210.20753,-209.02659"
-     id="path4881"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 547.95672,869.33529 c 0,0 -88.57059,-75.58024 43.69483,-219.65507"
-     id="path4883"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 408.60566,655.58493 c 0,0 1.18094,38.97106 186.58871,-8.26659"
-     id="path4885"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 66.723179,735.88893 c 0,0 83.846831,22.43788 160.608011,11.80941"
-     id="path4897"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 1401.7772,989.79129 c 0,0 -162.6665,62.65621 -239.731,5.90471 -45.654,-33.62027 -34.2473,-247.99766 -9.4476,-320.03507"
-     id="path4901"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="csc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 1462.0052,941.3727 c 0,0 -120.9416,40.86536 -220.836,-55.50424 -71.4894,-68.96682 -89.7515,-209.02659 -89.7515,-209.02659"
-     id="path4903"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="csc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 1307.8924,686.2894 c 0,0 -50.19,11.80941 -157.0652,-8.26659"
-     id="path3035"
-     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="361.36801"
+     y="633.14703"
+     id="text4444"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="361.36801"
+       y="633.14703"
+       id="tspan4448">Mali</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="639.84338"
+     y="212.64272"
+     id="text4444-0"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="639.84338"
+       y="212.64272"
+       id="tspan4448-1">Tripoli</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="167.2032"
+     y="702.53589"
+     id="text4444-0-3"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="167.2032"
+       y="702.53589"
+       id="tspan4448-1-4">Bamako</tspan></text>
 </svg>
